@@ -1,7 +1,0 @@
-1. Berapa rata-rata umur customer jika dilihat dari marital statusnya? 
-
-2. Berapa rata-rata umur customer jika dilihat dari gender nya? 
-
-3. Tentukan nama store dengan total quantity terbanyak! 
-
-4. Tentukan nama produk terlaris dengan total amount terbanyak!
