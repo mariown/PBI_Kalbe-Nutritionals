@@ -1,2 +1,4 @@
-# PBI_Kalbe-Nutritionals
-Project Based Internship_Rakamin X Kalbe Nutritionals
+# Data Scientist Virtual Internship Experience
+Project Based Internship by Rakamin and Kalbe Nutritionals
+
+**Case Study**
